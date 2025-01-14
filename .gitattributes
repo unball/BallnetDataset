@@ -1,0 +1,7 @@
+README.md filter=lfs diff=lfs merge=lfs -text
+README.roboflow.txt filter=lfs diff=lfs merge=lfs -text
+test filter=lfs diff=lfs merge=lfs -text
+train filter=lfs diff=lfs merge=lfs -text
+valid filter=lfs diff=lfs merge=lfs -text
+data.yaml filter=lfs diff=lfs merge=lfs -text
+README.dataset.txt filter=lfs diff=lfs merge=lfs -text
